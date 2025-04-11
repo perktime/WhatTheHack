@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this challenge, you will learn about the different capabilities of OpenAI models and learn how to choose the best model for your use case.
+In this challenge, you will learn about the different capabilities of OpenAI models and learn how to choose the best model for your use case. **Use this markdown file to guide you through the challenge. There is no associated jupyter notebook in the codespaces for this challenge.**
 
 There are a lot of different models available in the Azure AI Model Catalog. These include models from OpenAI and other open source large language models from Meta, Hugging Face, and more. You are going to explore various LLMs and compare gpt3.5 to gpt4 model in this challenge. 
 
