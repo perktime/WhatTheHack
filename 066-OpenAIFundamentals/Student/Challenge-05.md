@@ -4,7 +4,7 @@
 
 ## Introduction
 
-As LLMs grow in popularity and use around the world, the need to manage and monitor their outputs becomes increasingly important. In this challenge, you will learn how to evaluate the outputs of LLMs and how to identify and mitigate potential biases in the model.
+As LLMs grow in popularity and use around the world, the need to manage and monitor their outputs becomes increasingly important. In this challenge, you will learn how to evaluate the outputs of LLMs and how to identify and mitigate potential biases in the model. **Use this markdown file to guide you through the challenge. There is no associated jupyter notebook in the codespaces for this challenge.**
 
 ### Responsible AI on Azure 
 
