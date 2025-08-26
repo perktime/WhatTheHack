@@ -33,6 +33,9 @@ You will need a set of developer tools to work with the sample application for t
 
 You can use GitHub Codespaces where we have a pre-configured development environment set up and ready to go for you, or you can setup the developer tools on your local workstation.
 
+| [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/devanshithakar12/wth-aiapps-codespace) | [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/devanshithakar12/wth-aiapps-codespace) | 
+|---|---|
+
 A GitHub Codespace is a development environment that is hosted in the cloud that you access via a browser. All of the pre-requisite developer tools for this hack are pre-installed and available in the codespace.
 
 - [Use GitHub Codespaces](#use-github-codespaces)
